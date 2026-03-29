@@ -111,3 +111,18 @@ Pandas
 NumPy
 Matplotlib
 mplsoccer
+## How to Run
+pip install pandas numpy matplotlib mplsoccer
+python shot_analysis.py
+## Key Takeaway
+Italy dominated the match through shot volume and territorial control but lacked efficiency in finishing. Northern Ireland showed defensive resilience but struggled to create meaningful attacking opportunities.
+
+## Future Improvements
+Add Expected Goals (xG) model
+Analyze shot assists and build-up play
+Include passing networks and possession sequences
+Build an interactive dashboard (Streamlit)
+## Author
+
+Stephen Yaw Ayamah
+Aspiring Football Data Analyst
