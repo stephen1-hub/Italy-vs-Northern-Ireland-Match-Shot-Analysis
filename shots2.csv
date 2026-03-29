@@ -1,0 +1,28 @@
+player,team_home,shot_type,situation,body_part,x,y,xg,minute
+Isaac Price,False,miss,assisted,right-foot,13.6,54.7,0,90
+Jamie Reid,False,block,set-piece,right-foot,6.3,56.3,0,90
+Ruairi McConville,False,block,set-piece,right-foot,8.5,53.0,0,90
+Moise Kean,True,goal,assisted,left-foot,12.0,56.7,0,80
+Moise Kean,True,miss,throw-in-set-piece,right-foot,7.6,49.2,0,79
+Nicolò Barella,True,miss,corner,right-foot,16.0,53.5,0,74
+Francesco Pio Esposito,True,save,corner,head,4.2,61.2,0,73
+Moise Kean,True,save,fast-break,right-foot,15.0,62.8,0,66
+Sandro Tonali,True,goal,regular,right-foot,17.8,48.9,0,56
+Moise Kean,True,save,assisted,right-foot,23.2,65.2,0,55
+Riccardo Calafiori,True,save,regular,right-foot,26.4,48.6,0,50
+Trai Hume,False,miss,regular,right-foot,21.0,69.1,0,47
+Jamie Donley,False,miss,assisted,left-foot,27.7,58.8,0,45
+Mateo Retegui,True,save,assisted,right-foot,6.0,66.6,0,45
+Sandro Tonali,True,block,assisted,right-foot,23.3,32.3,0,45
+Terry Devlin,False,block,assisted,right-foot,27.8,50.9,0,43
+Alessandro Bastoni,True,miss,corner,head,3.1,59.2,0,42
+Moise Kean,True,miss,assisted,right-foot,21.0,67.3,0,38
+Ruairi McConville,False,miss,throw-in-set-piece,head,12.9,46.4,0,36
+Alessandro Bastoni,True,block,corner,head,9.7,56.1,0,34
+Mateo Retegui,True,block,regular,right-foot,13.1,65.8,0,30
+Ethan Galbraith,False,save,fast-break,right-foot,20.5,53.3,0,20
+Federico Dimarco,True,save,corner,left-foot,10.5,28.6,0,7
+Riccardo Calafiori,True,miss,corner,head,11.0,51.0,0,7
+Sandro Tonali,True,block,assisted,right-foot,3.6,33.9,0,6
+Sandro Tonali,True,miss,corner,head,7.2,38.9,0,5
+Moise Kean,True,block,assisted,right-foot,14.5,73.6,0,4
