@@ -1,4 +1,4 @@
 shot-dashboard/
-│── app.py
+│── app2.py
 │── requirements.txt
 │── data.csv   (optional if you save your dataset)
