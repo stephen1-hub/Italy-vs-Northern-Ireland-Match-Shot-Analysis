@@ -3,6 +3,7 @@
 
 This project analyzes shot data from a football match between Italy and Northern Ireland using Python and data visualization techniques. The goal is to evaluate attacking efficiency, shot quality, and tactical patterns, and translate insights into actionable recommendations.
 
+## Live Demo: (https://italy-vs-northern-ireland-match-shot-analysis-vxkanyx5hctzkyzr.streamlit.app/)
 ## Objective
 
 To assess:
